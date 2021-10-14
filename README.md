@@ -72,7 +72,7 @@ Task1 Failed
 Add a config file and try again.
 ```
 ### Features:
-* Able to create and update Business config files A, B, C based on  Redis Key.
+* Able to create and update same config files A, B, C based on  Redis Key.
 * Detect OS and path
 * Allows single file per crawling instance in the config directorries
 * Prevent empty folder and file content posting to Redis.
