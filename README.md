@@ -27,6 +27,7 @@ C. Run build version after in the src directory
 
 ### Output
 **Successfully upload all config files to redis.**
+
 _Rating: 100%_
 ```
 OS Detected:  MAC OS
@@ -43,6 +44,7 @@ Task3 completed successfully
 
 
 **Successfull upload files to redis.**
+
 _Rating: 0.75_
 ```
 OS Detect:  MAC OS
@@ -59,6 +61,7 @@ Reason: File content is empty for ./business_case/C/. Ensure to have valid conte
 ```
 
 **Failed to upload files to redis.**
+
 _Rating: 0.00
 
 ```
