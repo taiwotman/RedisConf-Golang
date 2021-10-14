@@ -21,7 +21,7 @@ B. Run using the following steps:
 
     cd src
 
-C. Run build version after in the src directory
+C. Run build version in the src directory
    
     ./main
 
