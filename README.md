@@ -26,7 +26,7 @@ C. Run build version after in the src directory
     ./main
 
 ### Output
-**Successfully upload all config files to redis.**
+**Successfully config files upload to redis.**
 
 _Rating: 100%_
 ```
@@ -43,7 +43,7 @@ Task3 completed successfully
 ```
 
 
-**Successfull upload files to redis.**
+**Partial config files upload to redis.**
 
 _Rating: 0.75_
 ```
@@ -60,7 +60,7 @@ Reason: File content is empty for ./business_case/C/. Ensure to have valid conte
 
 ```
 
-**Failed to upload files to redis.**
+**Failed config files upload to redis.**
 
 _Rating: 0.00_
 
