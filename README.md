@@ -58,7 +58,7 @@ Reason: File content is empty for ./business_case/C/. Ensure to have valid conte
 
 ```
 
-** failed to upload files to redis.**
+**Failed to upload files to redis.**
 _Rating: 0.00
 
 ```
