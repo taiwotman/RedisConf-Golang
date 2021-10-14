@@ -62,7 +62,7 @@ Reason: File content is empty for ./business_case/C/. Ensure to have valid conte
 
 **Failed to upload files to redis.**
 
-_Rating: 0.00
+_Rating: 0.00_
 
 ```
 OS Detected:  MAC OS
