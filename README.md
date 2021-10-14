@@ -77,3 +77,18 @@ Add a config file and try again.
 * Allows single file per crawling instance in the config directorries
 * Prevent empty folder and file content posting to Redis.
 * Easy to use.
+
+### For customize use
+Feel free to reach me.
+
+Or 
+
+### Community contribution
+If you are interested in contributing to improve this project; please, do either of the following:
+
+* Open an [issue](https://github.com/taiwotman/flasklogin_neo4j/issues?q=is%3Aissue+is%3Aclosed)
+
+* Fork repository
+
+* Connect and chat me on [LinkedIn](https://www.linkedin.com/in/taiwo-o-adetiloye-ph-d-505a8023/)
+
