@@ -10,7 +10,7 @@ A Golang script designed to populate sample business case A, B, C Configs in Red
 
 {Visual Studio Code} + {Golang Extension}
 
-### Set Up
+### Set up
 A.  Install the following modules:
 
     go get github.com/go-redis/redis/v8
