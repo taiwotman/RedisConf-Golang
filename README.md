@@ -78,7 +78,7 @@ Add a config file and try again.
 * Prevent empty folder and file content posting to Redis.
 * Easy to use.
 
-### For customize use
+### Customize use
 Feel free to reach me.
 
 Or 
