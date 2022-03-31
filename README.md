@@ -86,9 +86,9 @@ Or
 ### Community contribution
 If you are interested in contributing to improve this project; please, do either of the following:
 
-* Open an [issue](https://github.com/taiwotman/flasklogin_neo4j/issues?q=is%3Aissue+is%3Aclosed)
+* Open an [issue](https://github.com/taiwotman/RedisConf-Golang/issues)
 
 * Fork repository
 
-* Connect and chat me on [LinkedIn](https://www.linkedin.com/in/taiwo-o-adetiloye-ph-d-505a8023/)
+* Send a [message](https://taiwotman.github.io/#contact)
 
