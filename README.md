@@ -26,9 +26,9 @@ C. Run build version in the src directory
     ./main
 
 ### Output
-**Successfully config files upload to redis.**
+**Config files successfully upload to redis.**
 
-_Rating: 100%_
+_Rating: 1.00_
 ```
 OS Detected:  MAC OS
 
